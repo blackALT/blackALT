@@ -3,13 +3,14 @@
 <!--
 **blackALT/blackALT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 👩‍💻 I’m currently working on security information
-- 🌱 I'm learning about software engineering, architecture and development
-- 👯 I’m looking to collaborate with DevSecOps and web applications security applied to software development
+- 👩‍💻 I’m currently working with security information
+- 🌱 Always learning about software engineering, architecture and development
+- 👯 Righ now i’m looking to collaborate with DevSecOps and web applications security applied to software development projects
 - 💬 Ask me about security, development, writing, astronomy and poetry (in deep, i'm a romantic girl :heartpulse:!)
 - 📫 How to reach me: instagram.com/wanessao_0/
 - 😄 Nickname: Wan
 - ⚡ Fun fact: I'm a proud fan about T-shaped knowledge. Be alive to aggregate!
+- 📔 Close friends know: I'm a professional writer! 
 
 <!--
 
@@ -24,6 +25,8 @@ Gosto de expressões artísticas, literatura, música e cinema. Meu hobby favori
 Pessoas próximas a mim afirmam que tenho uma veia natural para a liderança e apesar disso contradizer minha personalidade majoritariamente introspectiva, eu adoro fazer as pessoas sorrirem, amo trabalho voluntário e adoro transmitir conhecimentos. Meus interesses futuros incluem um mestrado profissional em engenharia de software, especialização em arquitetura de software e em segurança da informação.
 
 Habilidades / interesses: JavaScript, HTML, CSS, Java, SQL, Python, Bootstrap, Angular, Git / GitHub, Node.JS e Wordpress. No âmbito de segurança da informação tenho conhecimento e interesse em sistemas operacionais (Linux e Windows), análise de vulnerabilidades, Web Applications, OSINT.
+
+## English version
 
 I've always been an observant child. The fact that I hear more than talk stimulates me a natural ease for other kinds of expressions, a writing is one of them. Since I wrote my first text around the age of seven, I have found it much more comfortable to write on sheets of paper as my day had been than talking to a friend. I usually listen to much more than talk and when I do, I try to deliver something of value to my listeners. I believe in the power of words, motivation and lives that we can change with good advice.
 
