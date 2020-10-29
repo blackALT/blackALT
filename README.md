@@ -7,8 +7,6 @@
 - 🌱 Always learning about software engineering, architecture and development
 - 👯 Righ now i’m looking to collaborate with DevSecOps and web applications security applied to software development projects
 - 💬 Ask me about security, development, writing, astronomy and poetry (in deep, i'm a romantic girl :heartpulse:!)
-- 📫 How to reach me: instagram.com/wanessao_0/
-- 😄 Nickname: Wan
 - ⚡ Fun fact: I'm a proud fan about T-shaped knowledge. Be alive to aggregate!
 - 📔 Close friends know: I'm a professional writer! 
 
